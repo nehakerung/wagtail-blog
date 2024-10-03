@@ -4,7 +4,6 @@ from wagtail.admin.panels import FieldPanel
 
 from portfolio.blocks import PortfolioStreamBlock
 
-
 class PortfolioPage(Page):
     parent_page_types = ["home.HomePage"]
 
