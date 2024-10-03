@@ -28,6 +28,8 @@ INSTALLED_APPS = [
     "blog",
     "home",
     "search",
+    "portfolio",
+    #not base and portfolio not recognised as apps
     "wagtail.contrib.settings",
     "wagtail.contrib.forms",
     "wagtail.contrib.redirects",
